@@ -2,7 +2,7 @@
 
 🎓 Final-year Computer Engineering student @ Biruni University  
 💡 Interested in AI, Machine Learning, and Data Science  
-🔭 Working on ML/DL projects such as Intrusion Detection, Biomedical Data Analysis, and Academic Research Platforms  
+🔭 Working on ML/DL projects such as Intrusion Detection, Data Analysis, and Academic Research Platforms  
 
 ## 🔹 Skills  
 
