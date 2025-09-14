@@ -5,14 +5,25 @@
 🔭 Working on ML/DL projects such as Intrusion Detection, Data Analysis, and Academic Research Platforms  
 
 ## Skills  
-
-- **Programming:** Java, Python, SQL, JavaScript  
-- **Backend Development:** Spring Boot, FastAPI, REST APIs, PostgreSQL  
+  
 - **Frontend Development:** React, HTML, CSS, JavaScript  
 - **Machine Learning & AI:** Classification, Feature Selection (Chi-Square, MI, RFE, Lasso), Deep Learning (DNN, CNN, Focal Loss), Transfer Learning, Model Optimization  
 - **Data Science:** Data Preprocessing, EDA, Data Visualization, Imbalanced Data Handling (SMOTE, class weights)  
 - **Research & Reporting:** Academic Writing (IEEE format), Scientific Data Analysis, LaTeX  
 - **Tools:** Git, GitHub, VS Code, Jupyter/Colab, Excel (One-Hot Encoding, custom formulas)
+
+
+**Programming:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+
+**Backend Development:**  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)  
+
 
 ## Featured Projects  
 
