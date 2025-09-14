@@ -4,7 +4,7 @@
 💡 Interested in AI, Machine Learning, and Data Science  
 🔭 Working on ML/DL projects such as Intrusion Detection, Data Analysis, and Academic Research Platforms  
 
-## 🔹 Skills  
+## Skills  
 
 - **Programming:** Java, Python, SQL, JavaScript  
 - **Backend Development:** Spring Boot, FastAPI, REST APIs, PostgreSQL  
@@ -14,7 +14,7 @@
 - **Research & Reporting:** Academic Writing (IEEE format), Scientific Data Analysis, LaTeX  
 - **Tools:** Git, GitHub, VS Code, Jupyter/Colab, Excel (One-Hot Encoding, custom formulas)
 
-## 🚀 Featured Projects  
+## Featured Projects  
 
 - **YADİGAR** 🔒 – AI-powered academic research platform for personalized literature exploration.  
 - **HRMS** – Human Resource Management System with Java Spring Boot & PostgreSQL.  
