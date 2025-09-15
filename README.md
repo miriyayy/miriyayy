@@ -29,7 +29,9 @@
   <!-- Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
   <!-- Excel -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="excel" width="50" height="50"/>
+<!-- Excel (FontAwesome üzerinden) -->
+<i class="fa fa-file-excel-o" style="font-size:50px;color:green"></i>
+
 
 
 </p>
