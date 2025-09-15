@@ -45,5 +45,5 @@
 - **UNSW-NB15 IDS Project** 🔒 – Real-time intrusion detection using ML & DL models.  
 - **COVID Gene Expression Analysis** 🔒 – ML-based analysis of high-dimensional biomedical datasets.  
 - **Podcast AI** 🔒– Dialogue-based podcast generator with LLM & TTS integration.
-- **Local Pharmacy Website** – Frontend project (HTML, CSS, JS) for local pharmacy delivery.  
+- **Local Pharmacy Website** – Frontend/Backend project (HTML, CSS, JS and Java,Spring-Boot, PostgreSQL) for local pharmacy delivery.  
 
