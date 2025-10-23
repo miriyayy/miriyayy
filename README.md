@@ -4,7 +4,7 @@
 💡 Interested in AI, Machine Learning, and Data Science  
 🔭 Working on ML/DL projects such as Intrusion Detection, Data Analysis, and Academic Research Platforms  
 
-## 🚀 My Skills
+##  My Skills
 
 <p align="center">
   <!-- Programming -->
