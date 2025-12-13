@@ -43,6 +43,7 @@
 - **YADİGAR** 🔒 – AI-powered academic research platform for personalized literature exploration.  
 - **HRMS** – Human Resource Management System with Java Spring Boot & PostgreSQL.  
 - **UNSW-NB15 IDS Project** 🔒 – Real-time intrusion detection using ML & DL models.
+  
 Published in IEEE Xplore: https://ieeexplore.ieee.org/document/11208415  
 - **COVID Gene Expression Analysis** 🔒 – ML-based analysis of high-dimensional biomedical datasets.  
 - **Podcast AI** 🔒– Dialogue-based podcast generator with LLM & TTS integration. (Hugging Face)
