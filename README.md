@@ -41,7 +41,7 @@
 ## Featured Projects  
 - **UNSW-NB15 IDS Project** 🔒 – Real-time intrusion detection using ML & DL models. (Published in IEEE Xplore)
 
-IEEE Xplore: https://ieeexplore.ieee.org/document/11208415  
+  IEEE Xplore: https://ieeexplore.ieee.org/document/11208415  
 
 - **YADİGAR** 🔒 – AI-powered academic research platform for personalized literature exploration.
 -  **COVID Gene Expression Analysis** 🔒 – ML-based analysis of high-dimensional biomedical datasets.
