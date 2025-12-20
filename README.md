@@ -45,7 +45,4 @@
 
 - **YADİGAR** 🔒 – AI-powered academic research platform for personalized literature exploration.
 -  **COVID Gene Expression Analysis** 🔒 – ML-based analysis of high-dimensional biomedical datasets.
--  **Podcast AI** 🔒– Dialogue-based podcast generator with LLM & TTS integration. (Hugging Face)
-- **HRMS** – Human Resource Management System with Java Spring Boot & PostgreSQL.  
-- **Local Pharmacy Website** – Frontend/Backend project (HTML, CSS, JS and Java,Spring-Boot, PostgreSQL) for local pharmacy delivery.  
-
+-  **Podcast AI** 🔒– Dialogue-based podcast generator with LLM & TTS integration. (Hugging Face) 
