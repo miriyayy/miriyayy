@@ -45,4 +45,9 @@
 
 - **YADİGAR** 🔒 – AI-powered academic research platform for personalized literature exploration.
 -  **COVID Gene Expression Analysis** 🔒 – ML-based analysis of high-dimensional biomedical datasets.
--  **Podcast AI** 🔒– Dialogue-based podcast generator with LLM & TTS integration. (Hugging Face) 
+-  **Podcast AI** 🔒– Dialogue-based podcast generator with LLM & TTS integration. (Hugging Face)
+
+## Contact & Connect with Me
+
+- 📧 Email: [mutlumiraysude34@gmail.com](mailto:mutlumiraysude34@gmail.com)
+
