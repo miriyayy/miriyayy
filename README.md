@@ -7,40 +7,20 @@
 ## 🚀 My Skills
 
 <p align="center">
-  
-  <!-- Programming -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-  
-  <br/><br/>
-  
-  <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/>
-  
-  <br/><br/>
-  
-  <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
-  
-  <br/><br/>
-  
-  <!-- ML / DS -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
-  
-  <br/><br/>
-  
-  <!-- Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="50"/> <!-- Excel -->
-  
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="50"/>
 </p>
-
 ---
 
 ## 📫 Contact 
